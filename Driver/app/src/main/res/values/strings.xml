@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Driver</string>
+    <string name="error_missing_permissions">Cannot start without required permissions</string>
+</resources>
